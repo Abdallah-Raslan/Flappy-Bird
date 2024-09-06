@@ -15,7 +15,7 @@ This is a simple Flappy Bird clone created as a practice project using Unity. Th
 2. **Controls**: Press the `Space` key or left mouse button to make the bird fly upwards.
 3. **Avoid Obstacles**: Navigate the bird through the gaps between the pipes.
 4. **Scoring**: Pass through the pipes to increase your score.
-5. **Game Over**: Colliding with the pipes ends the game. Press the play button to restart.
+5. **Game Over**: Colliding with the pipes or the ground ends the game. Press the play button to restart.
 
 ## Scripts Overview
 
